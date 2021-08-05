@@ -6,18 +6,10 @@ My name is Urse and I'm a UK based geek with a very fun board-game collection an
 
 I enjoy long going for walks in the rain, eating gummy sweets, playing games (board, roleplay, and virtual), and poking computers 💻.
 
-- 📫 How to reach me: hello@gleeblezoid.com
-- 😄 Pronouns: they/them
+<details><summary> In case you're interested</summary>
+- ➡️ My pronouns are: they/them
+- 📫 Reach me at: hello@gleeblezoid.com
+- 🌐 See more of my online stuff at: gleeblezoid.com
+- 🎉 Fun fact: I grew up under a rock and studied Geology
 
-<!--
-**gleeblezoid/gleeblezoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+</details>
