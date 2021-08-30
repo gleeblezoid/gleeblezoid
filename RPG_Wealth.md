@@ -1,6 +1,6 @@
 # Remaining loot
 |Unit|Amount|
-- | -
+|---|---|
 |Platinum|10|
 |Gold|969|
 |Silver|6|
