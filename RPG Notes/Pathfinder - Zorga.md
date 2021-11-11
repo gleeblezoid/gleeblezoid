@@ -69,9 +69,24 @@
 - The Fleers crossbows are magical and very valuable
 - We took Tanner with us (he's got some abyssal illness) - he's having nightmares about dark horses coming for him and he needs revenge
 
-# Session 7 - Attack on the Winery
+# Session 7 - BEST DAY EVER
 
 - We took Tanner to a nearby sanctuary of Saranrae which was a winery
 - Tanner was terrified of Night Mares and it looks like he was even killed by one in the middle of the night. The abbot of the winery was attacked and suffered a minor injury.
 - We learned about a pseudo-religious order called the Hell Knights from the abbot as he mentioned they were one of the few parties who might have been motivated to go after a criminal but it's unlikely they'd be linked to Night Mares (which are abyssal)
 - The abbot tells us that whatever is after us or Tanner (that we probably pissed off) seems like it could be powerful enough to ruin a province.
+- We walk along to Stump which seems to be dilapidated and surrounded by over logged land which is now barren and sparse.
+- I HAVE A PAPOOSE!!!
+- I spent all my gold for the setup of a halfling-style eating contest, I regret nothing
+- We found out from a few people now that the nearby vodka distillery has been shut down mysteriously
+- Also cows have been going missing
+
+Eating contest rules (Limani Rules)
+Rules:
+- 15 successes (one per kg of meat)
+- DC 12 - 1kg DC 14 - 2kg DC 16 - 3kg
+- Each success above 1 in a round = +1 DC on future checks.
+- If failed - no progress.
+- If critically failed - bow out.
+If critically succeeds - no additional DC.
+Zorga is at a +1 DC for being a badass and also eating breakfast
