@@ -46,6 +46,7 @@
 > Gudfast - Dead (we have the Gudfast house marked on a map after a Gudfast grandchild approached us)
 
 # Session 3 & 4
+
 - We killed the Xul'gaths around the tower but one got in 
 - Bones of cows and other things in the entrance to the tower
 - We smashed some golems, it was great
@@ -53,11 +54,13 @@
 - I jumped through a ceiling hole and we fixed the tower 
 
 # Session 5 - The Journey to Ferny
+
 - Bolumo the Sherriff (and Mayor) is based in the centre of Ferny
 - The Gudfast home was basically empty and derelict
 - We headed back to Matton Cleave as an overnight before heading to Stump
 
 # Session 6 - Pasta the Point of No Return
+
 - Opper Vandy is hedging and obfuscating (he's hiding something from us)
 - We found the footprints of a small human outside of Opper Vandy's bedroom and going around the front of the house
 - "Tanner was right, we're doomed" is what the bandits on the road who attacked us yelled and they tried heading south east to escape
@@ -65,3 +68,10 @@
 - We found a 100GP symbol of a nature god in the bandit camp
 - The Fleers crossbows are magical and very valuable
 - We took Tanner with us (he's got some abyssal illness) - he's having nightmares about dark horses coming for him and he needs revenge
+
+# Session 7 - Attack on the Winery
+
+- We took Tanner to a nearby sanctuary of Saranrae which was a winery
+- Tanner was terrified of Night Mares and it looks like he was even killed by one in the middle of the night. The abbot of the winery was attacked and suffered a minor injury.
+- We learned about a pseudo-religious order called the Hell Knights from the abbot as he mentioned they were one of the few parties who might have been motivated to go after a criminal but it's unlikely they'd be linked to Night Mares (which are abyssal)
+- The abbot tells us that whatever is after us or Tanner (that we probably pissed off) seems like it could be powerful enough to ruin a province.
