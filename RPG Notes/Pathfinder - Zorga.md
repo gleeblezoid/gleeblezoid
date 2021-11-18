@@ -1,5 +1,5 @@
 # In next week's episode...
-- We take on whatever is messing with the Turpoff Vodka Distillery
+- We talk to the, now cheering, humans at the distillery who were presumably being attacked by zulgaths (which we killed when we got there)
 
 Standard watch pattern is:
 
@@ -98,7 +98,7 @@ Rules:
 If critically succeeds - no additional DC.
 Zorga is at a +1 DC for being a badass and also eating breakfast
 
-15
+15kg
 14 - DC 13 - Done
 13 - DC 13 - Done
 - break - Done 
@@ -108,9 +108,11 @@ Zorga is at a +1 DC for being a badass and also eating breakfast
 10 - DC 12 - Done
 9 - DC 12 - Done
 8 - DC 12 - Done
-I rolled 4 ones.
+I rolled 4 ones but I still had fun.
 
 KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 
 ## Turpin Rowe
 - Miss Landra and Mr Fi were killed
+- We got approached by grey robed figures saying that we are not welcome in the forest and to leave
+- We got to the distillery and it was, obvs, full of Zulgaths who we killed
