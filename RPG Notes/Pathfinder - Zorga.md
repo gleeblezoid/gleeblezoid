@@ -69,7 +69,7 @@
 - The Fleers crossbows are magical and very valuable
 - We took Tanner with us (he's got some abyssal illness) - he's having nightmares about dark horses coming for him and he needs revenge
 
-# Session 7 - BEST DAY EVER
+# Session 7 & 8 - BEST DAY EVER
 
 - We took Tanner to a nearby sanctuary of Saranrae which was a winery
 - Tanner was terrified of Night Mares and it looks like he was even killed by one in the middle of the night. The abbot of the winery was attacked and suffered a minor injury.
@@ -85,8 +85,22 @@ Eating contest rules (Limani Rules)
 Rules:
 - 15 successes (one per kg of meat)
 - DC 12 - 1kg DC 14 - 2kg DC 16 - 3kg
-- Each success above 1 in a round = +1 DC on future checks.
+- Each success above 1kg in a round = +1 DC on future checks.
 - If failed - no progress.
 - If critically failed - bow out.
 If critically succeeds - no additional DC.
 Zorga is at a +1 DC for being a badass and also eating breakfast
+
+15
+14 - DC 13 - Done
+13 - DC 13 - Done
+- break - Done 
+12 - DC 12 - Nope
+12 - DC 12 - Done
+11 - DC 12 - Done
+10 - DC 12 - Done
+9 - DC 12 - Done
+8 - DC 12 - Done
+
+KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
+
