@@ -9,7 +9,7 @@ End: Scritt and Ulthadar
 ---------
 
 # In next week's episode...
-- We talk to the, now cheering, humans at the distillery who were presumably being attacked by zulgaths (which we killed when we got there)
+- We talk to the, now cheering, humans at the distillery who were presumably being attacked by Xul'gaths (which we killed when we got there)
 
 # Quest
 - Investigate the Wellspring Tower
@@ -118,4 +118,4 @@ KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 ## Turpin Rowe
 - Miss Landra and Mr Fi were killed
 - We got approached by grey robed figures saying that we are not welcome in the forest and to leave
-- We got to the distillery and it was, obvs, full of Zulgaths who we killed
+- We got to the distillery and it was, obvs, full of Xul'gaths who we killed
