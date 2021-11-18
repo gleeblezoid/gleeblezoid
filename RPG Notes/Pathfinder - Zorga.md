@@ -1,5 +1,4 @@
-# In next week's episode...
-- We talk to the, now cheering, humans at the distillery who were presumably being attacked by zulgaths (which we killed when we got there)
+---------
 
 Standard watch pattern is:
 
@@ -7,6 +6,10 @@ First: Zorga and Quoth
 Middle: Kylk
 End: Scritt and Ulthadar
 
+---------
+
+# In next week's episode...
+- We talk to the, now cheering, humans at the distillery who were presumably being attacked by zulgaths (which we killed when we got there)
 
 # Quest
 - Investigate the Wellspring Tower
