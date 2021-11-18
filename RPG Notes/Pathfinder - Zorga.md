@@ -1,5 +1,12 @@
 # In next week's episode...
-- The party ventures into the tower they just climbed all over and looted
+- We take on whatever is messing with the Turpoff Vodka Distillery
+
+Standard watch pattern is:
+
+First: Zorga and Quoth
+Middle: Kylk
+End: Scritt and Ulthadar
+
 
 # Quest
 - Investigate the Wellspring Tower
@@ -101,6 +108,9 @@ Zorga is at a +1 DC for being a badass and also eating breakfast
 10 - DC 12 - Done
 9 - DC 12 - Done
 8 - DC 12 - Done
+I rolled 4 ones.
 
 KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 
+## Turpin Rowe
+- Miss Landra and Mr Fi were killed
