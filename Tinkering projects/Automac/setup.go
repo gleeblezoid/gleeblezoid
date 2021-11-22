@@ -10,7 +10,10 @@ func main() {
 	checkForXcode()
 	zshSetup()
 	macPortsInstall()
+	//installPorts()
+	//installPowerLevel()
 	trackpadSetup()
+	//touchbarSetup()
 }
 
 func macPortsInstall() {
