@@ -4,7 +4,7 @@
 
 My name is Urse and I'm a UK based geek with a very fun board-game collection and a nearly sufficient supply of coffee.☕
 
-I enjoy long going for walks in the rain, eating gummy sweets, playing games (board, roleplay, and virtual), and poking computers.💻
+I enjoy going for long walks in the rain, eating gummy sweets, playing games (board, roleplay, and virtual), and poking computers.💻
 
 <details><summary> In case you're interested</summary>
   
