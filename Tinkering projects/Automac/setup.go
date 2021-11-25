@@ -7,6 +7,8 @@ import (
 )
 
 func main() {
+
+	fmt.Println("Move to home directory")
 	moveToHome := exec.Command("cd", "$HOME")
 	m := moveToHome.Run()
 	checkError(m)
@@ -20,6 +22,7 @@ func main() {
 	touchbarSetup()
 	installClosed()
 
+	fmt.Println("Reboot machine")
 	rebootMachine := exec.Command("reboot")
 	r := rebootMachine.Run()
 	checkError(r)
