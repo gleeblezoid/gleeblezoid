@@ -7,6 +7,10 @@ import (
 )
 
 func main() {
+	moveToHome := exec.Command("cd", "$HOME")
+	m := moveToHome.Run()
+	checkError(m)
+
 	checkForXcode()
 	zshSetup()
 	macPortsInstall()
@@ -14,7 +18,7 @@ func main() {
 	installPowerLevel()
 	trackpadSetup()
 	touchbarSetup()
-	installApplications()
+	installClosed()
 
 	rebootMachine := exec.Command("reboot")
 	r := rebootMachine.Run()
@@ -46,6 +50,7 @@ func macPortsInstall() {
 }
 
 func installPowerLevel() {
+	fmt.Println("Install PowerLevel10k")
 	downloadPowerLevel := exec.Command("git clone", "--depth=1", "https://github.com/romkatv/powerlevel10k.git", "$HOME/powerlevel10k")
 	dpl := downloadPowerLevel.Run()
 	checkError(dpl)
@@ -65,7 +70,8 @@ func installPorts() {
 	checkError(r)
 }
 
-func installFromDMG() {
+func installClosed() {
+	fmt.Println("Install closed source apps")
 	installApplications := exec.Command("/bin/bash", "installBinaries.sh")
 	i := installApplications.Run()
 	checkError(i)
@@ -83,6 +89,7 @@ func trackpadSetup() {
 }
 
 func touchbarSetup() {
+	fmt.Println("Set up touchbar")
 	setTouchbar := exec.Command("defaults", "write ~/Library/Preferences/com.apple.controlstrip MiniCustomized", "'(com.apple.system.brightness, com.apple.system.volume, com.apple.system.mute, com.apple.system.screen-lock )'")
 	s := setTouchbar.Run()
 	checkError(s)
