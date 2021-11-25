@@ -18,4 +18,9 @@ hdiutil mount Vivaldi.4.3.2439.65.universal.dmg &&
 cp /Volumes/Vivaldi\ 4.3.2439.65.dmg/Vivaldi.app /Applications/Vivaldi.app &&
 hdiutil detach /Volumes/Vivaldi\ 4.3.2439.65.dmg &&
 
+curl -LJO https://code.visualstudio.com/sha/download\?build\=stable\&os\=darwin-universal &&
+unzip VSCode-darwin-universal.zip &&
+cp Visual\ Studio\ Code.app /Applications/Visual\ Studio\ Code.app &&
+
+cd ../ &&
 rm -rf packages
