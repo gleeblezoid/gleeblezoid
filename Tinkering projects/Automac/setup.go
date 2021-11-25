@@ -18,7 +18,7 @@ func main() {
 	installClosed()
 
 	fmt.Println("Reboot machine")
-	rebootMachine := exec.Command("reboot")
+	rebootMachine := exec.Command("shutdown -r now")
 	r := rebootMachine.Run()
 	checkError(r)
 }
