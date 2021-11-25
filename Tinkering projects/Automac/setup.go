@@ -13,8 +13,12 @@ func main() {
 	installPorts()
 	installPowerLevel()
 	trackpadSetup()
-	//touchbarSetup()
-	//installBinaries()
+	touchbarSetup()
+	installApplications()
+
+	rebootMachine := exec.Command("reboot")
+	r := rebootMachine.Run()
+	checkError(r)
 }
 
 func macPortsInstall() {
@@ -62,13 +66,9 @@ func installPorts() {
 }
 
 func installFromDMG() {
-	/*
-		curl -LJO https://github.com/rxhanson/Rectangle/releases/download/v0.49/Rectangle0.49.dmg
-		hdiutil mount Rectangle0.49.dmg
-		sudo cp -r /Volumes/Rectangle0.49/Rectangle.app /Applications/Rectangle.app
-		hdiutil detach Rectangle0.49.dmg
-	*/
-	return
+	installApplications := exec.Command("/bin/bash", "installBinaries.sh")
+	i := installApplications.Run()
+	checkError(i)
 }
 
 func trackpadSetup() {
@@ -83,7 +83,9 @@ func trackpadSetup() {
 }
 
 func touchbarSetup() {
-	setTouchbar := exec.Command()
+	setTouchbar := exec.Command("defaults", "write ~/Library/Preferences/com.apple.controlstrip MiniCustomized", "'(com.apple.system.brightness, com.apple.system.volume, com.apple.system.mute, com.apple.system.screen-lock )'")
+	s := setTouchbar.Run()
+	checkError(s)
 }
 
 func zshSetup() {
