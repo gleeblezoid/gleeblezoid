@@ -10,10 +10,11 @@ func main() {
 	checkForXcode()
 	zshSetup()
 	macPortsInstall()
-	//installPorts()
-	//installPowerLevel()
+	installPorts()
+	installPowerLevel()
 	trackpadSetup()
 	//touchbarSetup()
+	//installBinaries()
 }
 
 func macPortsInstall() {
@@ -40,8 +41,24 @@ func macPortsInstall() {
 	checkError(sp)
 }
 
+func installPowerLevel() {
+	downloadPowerLevel := exec.Command("git clone", "--depth=1", "https://github.com/romkatv/powerlevel10k.git", "$HOME/powerlevel10k")
+	dpl := downloadPowerLevel.Run()
+	checkError(dpl)
+}
+
 func installPorts() {
-	// This should be a loop through a list of ports from an imported file
+	fmt.Println("Run through ports and install them.")
+	downloadInstallScript := exec.Command("curl", "-fsSL", "https://github.com/macports/macports-contrib/raw/master/restore_ports/restore_ports.tcl")
+	extractInstallScript := exec.Command("xattr", "-d", "com.apple.quarantine restore_ports.tcl")
+	runScript := exec.Command("/bin/sh", "restore_ports.tcl", "myports.txt")
+
+	d := downloadInstallScript.Run()
+	checkError(d)
+	e := extractInstallScript.Run()
+	checkError(e)
+	r := runScript.Run()
+	checkError(r)
 }
 
 func installFromDMG() {
@@ -63,7 +80,10 @@ func trackpadSetup() {
 	checkError(t)
 	s := scrollDirection.Run()
 	checkError(s)
+}
 
+func touchbarSetup() {
+	setTouchbar := exec.Command()
 }
 
 func zshSetup() {
