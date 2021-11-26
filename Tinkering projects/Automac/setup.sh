@@ -36,3 +36,5 @@ defaults write ~/Library/Preferences/com.apple.controlstrip MiniCustomized '(com
 
 echo "Install closed source apps"
 ./scripts/installBinaries.sh
+
+sudo reboot
