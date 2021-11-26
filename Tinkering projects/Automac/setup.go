@@ -58,7 +58,7 @@ func installPorts() {
 	fmt.Println("Run through ports and install them.")
 	downloadInstallScript := exec.Command("curl", "-fsSL", "https://github.com/macports/macports-contrib/raw/master/restore_ports/restore_ports.tcl")
 	extractInstallScript := exec.Command("xattr", "-d", "com.apple.quarantine restore_ports.tcl")
-	runScript := exec.Command("/bin/sh", "restore_ports.tcl", "myports.txt")
+	runScript := exec.Command("/bin/sh", "restore_ports.tcl", "config/myports.txt")
 
 	d := downloadInstallScript.Run()
 	checkError(d)
@@ -70,7 +70,7 @@ func installPorts() {
 
 func installClosed() {
 	fmt.Println("Install closed source apps")
-	installApplications := exec.Command("/bin/bash", "installBinaries.sh")
+	installApplications := exec.Command("/bin/bash", "scripts/installBinaries.sh")
 	i := installApplications.Run()
 	checkError(i)
 }
@@ -100,7 +100,7 @@ func zshSetup() {
 	i := installOhMyZsh.Run()
 	checkError(i)
 
-	config, err := ioutil.ReadFile("zsh-config.txt")
+	config, err := ioutil.ReadFile("config/zsh-config.txt")
 	if err != nil {
 		fmt.Println(err)
 	}
