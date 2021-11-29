@@ -22,7 +22,7 @@ rm -rf MacPorts-2.7.1*
 
 echo "install xcode full"
 sudo port install mas
-mas install 497799835
+mas lucky xcode
 
 echo "Install ports from list"
 sudo curl --location --remote-name https://github.com/macports/macports-contrib/raw/master/restore_ports/restore_ports.tcl
