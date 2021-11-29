@@ -20,21 +20,25 @@ sudo port -v selfupdate
 cd ../
 rm -rf MacPorts-2.7.1*
 
+echo "install xcode full"
+sudo port install mas
+sudo mas install 497799835
+
 echo "Install ports from list"
 sudo curl --location --remote-name https://github.com/macports/macports-contrib/raw/master/restore_ports/restore_ports.tcl
 sudo chmod +x restore_ports.tcl
-xattr -d com.apple.quarantine restore_ports.tcl
+sudo xattr -d com.apple.quarantine restore_ports.tcl
 sudo ./restore_ports.tcl config/myports.txt
 
 echo "Install PowerLevel10k"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "$HOME"/powerlevel10k
 
 echo "Set up trackpad and touchbar"
-defaults write com.apple.AppleMultitouchTrackpad Clicking -bool true
-defaults write ~/Library/Preferences/.GlobalPreferences com.apple.swipescrolldirection -bool false
-defaults write ~/Library/Preferences/com.apple.controlstrip MiniCustomized '(com.apple.system.brightness, com.apple.system.volume, com.apple.system.mute, com.apple.system.screen-lock )'
+sudo defaults write com.apple.AppleMultitouchTrackpad Clicking -bool true
+sudo defaults write ~/Library/Preferences/.GlobalPreferences com.apple.swipescrolldirection -bool false
+sudo defaults write ~/Library/Preferences/com.apple.controlstrip MiniCustomized '(com.apple.system.brightness, com.apple.system.volume, com.apple.system.mute, com.apple.system.screen-lock )'
 
 echo "Install closed source apps"
-./scripts/installBinaries.sh
+sudo ./scripts/installBinaries.sh
 
 sudo reboot
