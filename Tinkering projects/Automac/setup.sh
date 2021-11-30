@@ -20,10 +20,20 @@ sudo port -v selfupdate
 cd ../
 rm -rf MacPorts-2.7.1*
 
-echo "install xcode full"
+echo "Install Mac App Store CLI"
 sudo port install mas
+echo "Install xcode full"
 mas lucky xcode
+echo "Install Bitwarden"
 mas lucky bitwarden
+echo "Install WhatsApp"
+mas lucky whatsapp
+echo "Install Spark"
+mas lucky spark
+echo "Install Messenger"
+mas lucky messenger
+echo "Install Microsoft Remote Desktop"
+mas lucky "microsoft remote desktop"
 
 echo "Install ports from list"
 sudo curl --location --remote-name https://github.com/macports/macports-contrib/raw/master/restore_ports/restore_ports.tcl
