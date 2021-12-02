@@ -119,3 +119,11 @@ KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 - Miss Landra and Mr Fi were killed
 - We got approached by grey robed figures saying that we are not welcome in the forest and to leave
 - We got to the distillery and it was, obvs, full of Xul'gaths who we killed
+- Commissioner Ikena told us about the distillery
+- 
+
+# Session 9 - We Brought You Flowers
+
+- We found the 8 missing people from the distillery who were on their way to the tower - most of them were killed by giant scary plants but we spoke to the survivor Gretana Shoon
+- An alchemist called Thessalika is helping the Xul'gaths (the name is a female Xul'gath name, they call her stone-leige) - stone leige is an uncommon Xulgath, we don't know what it meansbut think it's a title of deed.
+- 
