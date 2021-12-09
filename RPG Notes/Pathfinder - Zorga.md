@@ -126,4 +126,8 @@ KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 
 - We found the 8 missing people from the distillery who were on their way to the tower - most of them were killed by giant scary plants but we spoke to the survivor Gretana Shoon
 - An alchemist called Thessalika is helping the Xul'gaths (the name is a female Xul'gath name, they call her stone-leige) - stone leige is an uncommon Xulgath, we don't know what it meansbut think it's a title of deed.
-- 
+
+# Session 10 - Through the Fire and the Flames
+- The forest is extremely dense and seems almost more like a forest as we approach the tower
+- We attacked the Xul'gaths in the tower and they laid a load of fire traps for us
+- We managed to fight off the Xul'gaths, their geo-wizard, and the rock golems
