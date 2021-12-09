@@ -10,7 +10,7 @@ I enjoy going for long walks in the rain, eating gummy sweets, playing games (bo
   
 - ➡️ My pronouns are: they/them
 - 📫 Reach me at: hello@gleeblezoid.com
-- 🌐 See more of my online stuff at: [gleeblezoid.com](gleeblezoid.com)
+- 🌐 See more of my online stuff at: [gleeblezoid.com](http://gleeblezoid.com)
 - 🎉 Fun fact: I grew up under a rock and studied Geology
 
 </details>
