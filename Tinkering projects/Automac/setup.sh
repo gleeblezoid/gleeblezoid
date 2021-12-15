@@ -3,7 +3,7 @@
 set -eo pipefail
 
 echo "Check for xcode and install"
-if [[ -d "/Library/Developer/CommandLineTools" ]]; then
+if [[ ! -f "/Library/Developer/CommandLineTools" ]]; then
     xcode-select --install
 fi
 
