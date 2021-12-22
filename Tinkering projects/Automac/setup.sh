@@ -20,6 +20,7 @@ sudo port -v selfupdate
 cd ../
 rm -rf MacPorts-2.7.1*
 
+# I might need to authenticate with the App Store before mas runs
 echo "Install Mac App Store CLI"
 sudo port install mas
 echo "Install xcode full"
@@ -51,5 +52,8 @@ sudo defaults write ~/Library/Preferences/com.apple.controlstrip MiniCustomized 
 
 echo "Install closed source apps"
 sudo ./scripts/installBinaries.sh
+
+echo "Set up git config"
+git config --global user.name "gleeblezoid" && git config --global user.email hello@gleeblezoid.com
 
 sudo reboot
