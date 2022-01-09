@@ -131,3 +131,6 @@ KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 - The forest is extremely dense and seems almost more like a forest as we approach the tower
 - We attacked the Xul'gaths in the tower and they laid a load of fire traps for us
 - We managed to fight off the Xul'gaths, their geo-wizard, and the rock golems
+
+# Session 11 - The Potato Goes Sailing into the Darkness
+- We found a captured snakey person who was kidnapped by the Xul'gaths - they intended to take the snakey person's brain.
