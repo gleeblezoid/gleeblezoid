@@ -3,8 +3,8 @@
 Standard watch pattern is:
 
 First: Zorga and Quoth
-Middle: Kylk
-End: Scritt and Ulthadar
+Middle: Scritt and Kylk
+End: Ulthadar
 
 ---------
 
@@ -134,3 +134,9 @@ KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 
 # Session 11 - The Potato Goes Sailing into the Darkness
 - We found a captured snakey person who was kidnapped by the Xul'gaths - they intended to take the snakey person's brain.
+- I won the race against literally nobody to climb up the central tower before booting a dude down the shaft I climbed up
+
+# Session 12 - We cleared the mirror tower
+> We hit level 11
+- We're heading to the ruins of the last tower to the west of Turpin Rowe (the Liferoot Stone)
+
