@@ -35,7 +35,7 @@ If our server is slow to provide the client with our list of SKU IDs or that req
 
 We can measure the latency for this service as follows:
 
--  The proportion of /api/getSKUs requests that get a response sent within 1000ms, measured on our server
+-  The proportion of `/api/getSKUs` requests that get a response sent within 1000ms, measured on our server
 
 
 I've chosen a time threshold of 1000ms as that's an industry average (see https://cloud.google.com/architecture/adopting-slos#latency_alerts) for read operations.
@@ -46,7 +46,7 @@ That said, it's worth us measuring the response times on our own server so that 
 
 We can measure availability for this service as follows:
 
--  The proportion of /api/getSKUs requests that get a response containing a list of SKU IDs, measured on our server
+-  The proportion of `/api/getSKUs` requests that get a response containing a list of SKU IDs, measured on our server
 
 Checking that the response sent to the client actually contains a list of SKUs should be relatively easy to code and report on as a boolean value. It also has the advantage of being more informative than a standard response code in that we are less likely to report false positives (e.g. blank responses which contain a success response code).
 
