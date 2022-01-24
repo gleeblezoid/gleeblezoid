@@ -16,7 +16,7 @@ The measurement methods used, and the trade-offs they involve.
 Any parts of the journey you have chosen to leave uncovered.
 
 > Proportion of valid requests served successfully
-> e.g The proportion of billing responses that have a good response code measureed at our server
+> e.g The proportion of billing responses that have a good response code measured at our server
 > e.g The proportion of purchases that occur within x amount of time measured on our server
 
 # SLI Specifications
