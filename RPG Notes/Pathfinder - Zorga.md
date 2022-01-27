@@ -140,3 +140,10 @@ KYLK GOT TO ZERO - HE ATE THE WHOLE STEAK
 > We hit level 11
 - We're heading to the ruins of the last tower to the west of Turpin Rowe (the Liferoot Stone)
 
+# Session 13 - Seeking the golems
+
+- I got to wrestle a giant mole rat, pretty good day
+- We're going to come back for the mole rat corpse, it has valuable gubbins
+- Spooky dwarves are scary, but less awesome than laser beams
+
+WE ALL DIED
