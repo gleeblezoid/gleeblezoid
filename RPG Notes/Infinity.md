@@ -1,6 +1,7 @@
 # Infinity
 
 Me/Will's xter: We worked on a job to catch a mole, Will's xter was the mock-up artist
+
 Me/Dave's xter: I was a contractor on a job due to my stunt pilot skills, we got betrayed by the person who was meant to be providing the landing zone
 
 ## Session 1
@@ -21,9 +22,11 @@ Agent Nebraska: we believe Providentiae has significant dealings with several co
 
 No proof has yet been forthcoming, but you have an opportunity: either covertly obtain evidence of their operations on Ariadna so we can step in officially - or speak with Janus covertly to try and ascertain what she is doing and dissuade her continued involvement. Given you will be responsible for both the safe return of her son, and the punishment of his kidnappers, I'm sure you establish something to offer her.
 </details>
+
 Jocasta's assisstant is called Philemina Perez
 
 In the meeting with Jocasta:
+
 ` You see the room is rather messy - it looks like it's not been well cared for of late. You can see a red stain near the window that looks like it's been recently cleaned.`
 
 There have been an upsurge in kidnappings of children.
@@ -33,3 +36,5 @@ The other kidnappings have been happening once a week every week for the past se
 No connections between the families of the kidnapped children, oldest is 13, serial killer suspected, and mostly kids who "would not be missed". DNA evidence found a past EOL L-host around 2 years old.
 
 > There is a dealer called Jack Frost who deals in off-market L-hosts 
+
+Rosalind has provided us with her files on all the kidnappings.
