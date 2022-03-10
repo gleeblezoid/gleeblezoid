@@ -37,4 +37,12 @@ No connections between the families of the kidnapped children, oldest is 13, ser
 
 > There is a dealer called Jack Frost who deals in off-market L-hosts 
 
-Rosalind has provided us with her files on all the kidnappings.
+Rosalind has provided us with her files on all the kidnappings. We could potentially get files from the school by hacking, get Jack Frost or his files.
+
+Will and I are going to go have words with the L-Host Jack Frost - possible concussive words with Jack Frost before hacking into his computer.
+
+Phil is going to analyse the data from Rosalind Corto.
+
+Dave is going to try to hack the school.
+
+Ashan?
