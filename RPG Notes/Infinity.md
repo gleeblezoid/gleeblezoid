@@ -4,7 +4,7 @@ Me/Will's xter: We worked on a job to catch a mole, Will's xter was the mock-up 
 
 Me/Dave's xter: I was a contractor on a job due to my stunt pilot skills, we got betrayed by the person who was meant to be providing the landing zone
 
-## Session 1
+## Session 1 - Road to Neoterra
 
 We're on our first mission for O12 - we're being briefed by Jocasta Janus (CEO of a major company, Provedentia), her son recently went missing and we're being tasked to find him. We need to travel to Neoterra and find the son there (and "resolve" the situation). Our emergency contact on NeoTerra is a member of Haqqislam (Homa Kadyrova).
 
@@ -46,3 +46,37 @@ Phil is going to analyse the data from Rosalind Corto.
 Dave is going to try to hack the school.
 
 Ashan?
+
+## Session 2 - The Murder Algorithm
+
+Nimruz and I end up in a Nomad nightclub - this seemed slightly predictable.
+
+Nimruz was probably up to something in there but I don't care as long as we get the job done.
+
+We've gone to the establishment of Jack Frost and are trying to get information out of him.
+
+The l-host was an old model - sold cheap. Recently purchased by a priest (Father Casey Rimbauld - never gone to the shop but has purchased half a dozen L-hosts of different types). There was a young woman who came in to pick up the L-Hosts and we have a picture of her, plus the credit card details of an account linked to Father Rimbauld.
+
+There were at least 10 l-hosts in the dodgy batch. Father Rimbauld seems to have his own cube transfer capabilities - he bought the bodies without cubes, just in crates.
+
+John, Abdul, and Noi are all setting up hacks.
+
+Kidnapping took place 5 days ago from a bathroom on the second floor and no evidence was found beyond the DNA evidence and signs of a struggle.
+
+Noi got into the employee records, one of the janitors has a next of kin listed as Kaia nearish the school and it looks like the employment records have recently been infiltrated and changed. 
+This janitor record doesn't look legit.
+
+Father Rimbauld is no longer employed by the church and used to be a cybersecurity professional employed by the church (seems like he was a spy/information gatherer).
+
+He became increaingly erractic leading up to his resignation from the Church. Apparently did a lot of volunteer work and charity work. One of the more recent individuals he helped out is a woman called Kaia - he set her up in sheltered accomodation and became friends with her.
+
+Rimbauld created a large academic work which we also stole (thanks Noi).
+
+The targeted children are determined randomly, but we've discovered the seed to the randomness. John Casey's data analysis work has not only tracked the source of the random data which feeds the murder algorithm, he's cracked the algorithm so we can find the next victim.
+
+Things we might want to do next session:
+
+- Tail the next victim
+- Look into the academic work from Rimbauld
+- Track down/trap Kaia
+- Track down/trap Rimbauld
