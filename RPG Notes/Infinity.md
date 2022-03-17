@@ -80,3 +80,29 @@ Things we might want to do next session:
 - Look into the academic work from Rimbauld
 - Track down/trap Kaia
 - Track down/trap Rimbauld
+
+## Session 3 - Did anyone order pizza?
+
+Crazy man doctrine:
+
+- Adam Cadman is the name Rimbauld gives to his idea of the First Man
+- He seems to draw equivalence between Aleph and God
+- Rimbauld posits that there's patterns behind seemingly random occurrances and it's semi-convincing
+
+We have Rimbauld's address and some information on him from Noi's hacking in the last session.
+
+Nimruz starts digging into the public Mayanet presence for Rimbauld - Rimbauld seems to have gone off-grid for the past 6 weeks.
+
+
+Abdul, Nimruz, and I are teaming up to stake out Rimbauld's address - we got attacked by a pair of l-hosts purchased by Rimbauld/Kaia
+
+The apparently Spanish accented l-host who survived longer yelled "No mercy for deicides" at us.
+
+We all got arrested after taking down the l-hosts, though Abdul managed to stabilise one of them.
+
+End of session:
+
+- Alex, Nimruz, and Abdul all got arrested (though we're only just going into custody) 
+- Surveillance has been set up on Kaia
+- Surveillance and some information has been gathered on the next victim (Mikel Johanson)
+- It's mid-afternoon on Saturday, we expect the kidnapping to take place on the day after
