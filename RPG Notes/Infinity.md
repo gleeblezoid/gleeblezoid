@@ -117,7 +117,7 @@ Looking into Kaia revealed some weird tech specs which all trace back to a compa
 
 I played John Casey's Geist - I have decided her personality's name is Valerie (aged "seen it all" woman from New York).
 
-Kaia calls a cab and asks to be taken to "Our Lady of Sorrows" Church where she is comforted by Father Gaiaus.
+Kaia calls a cab and asks to be taken to "Our Lady of Sorrows" Church where she is comforted by Father Gaeus.
 
 One of the attackers died due a massive hole in the torso, the one we got stable died "from a cube malfunction".
 
