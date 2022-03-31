@@ -106,3 +106,30 @@ End of session:
 - Surveillance has been set up on Kaia
 - Surveillance and some information has been gathered on the next victim (Mikel Johanson)
 - It's mid-afternoon on Saturday, we expect the kidnapping to take place on the day after
+
+Kinna Cardasso - receptionist at Rimbauld's apartment building
+
+## Session 4 - Orange is the New Black Hat
+
+- My arm should heal up over the next day 
+
+Looking into Kaia revealed some weird tech specs which all trace back to a company called Eschaton Electronics - this company has an abandoned facility in the north of the city.
+
+I played John Casey's Geist - I have decided her personality's name is Valerie (aged "seen it all" woman from New York).
+
+Kaia calls a cab and asks to be taken to "Our Lady of Sorrows" Church where she is comforted by Father Gaiaus.
+
+One of the attackers died due a massive hole in the torso, the one we got stable died "from a cube malfunction".
+
+During the incident where Alex got shot emergency calling was disabled on all nearby devices - this would have required very elite hacking skills.
+
+Rimbauld thought Aleph was God and that Aleph needed the completion of themselves by gaining a prophet.
+
+Rimbauld is in the St Rafael sanctuary where he's being cared for (allegedly) after his psychotic break.
+
+A set of L-hosts do indeed go after Mikel Johanson and are following him - even on his cool hoverboard.
+
+
+Next session:
+
+Car chases car chases car chasing hoverboard
