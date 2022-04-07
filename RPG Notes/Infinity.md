@@ -139,3 +139,27 @@ Car chases car chases car chasing hoverboard
 ![Hack the car](https://media.giphy.com/media/low7gwxDpiijiCEWdd/giphy-downsized.gif)
 
 Noi, Abdul, and John Casey have pursued Mikel Johanson on his hoverboard (who was being pursued by l-hosts).
+
+Nimruz has gone to speak to Kaia so that we can track down Rimbauld. 
+
+Turns out Kaia is actually a skilled social manipulator and so she and Nimruz have an interesting battle of wits.
+
+Rimbauld is trying to assemble a messiah from the minds of the "chosen children" and himself.
+
+Kaia confesses everything after some prodding - she was a gopher for a fake Father Rimbauld but is now terrified of the things that he made her do (though the man she worked with did not look like Rimbauld).
+
+We managed to get some information on Rimbauld from Kaia's devices.
+
+Now we're in a terrible car chase again. I did manage to do a barrel roll and yank Abdul out of his car into the main car.
+
+We pulled up in front of the Eschaton Electronics warehouse when we followed the l-host taxi. 
+
+Rimbauld replaced his original body with an L-host and also has a creepy serial killer wall.
+
+We pasted the l-hosts (one literally with a hover taxi)
+
+Next session:
+
+- We're burning the cubes of the l-hosts and handing the primary cube to Rosalind Corto
+- We're getting Jocasta Janus to pay to restore all the kidnapped children's cubes (including her son)
+- Working out how to get our gear back will be fun
