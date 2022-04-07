@@ -133,3 +133,9 @@ A set of L-hosts do indeed go after Mikel Johanson and are following him - even 
 Next session:
 
 Car chases car chases car chasing hoverboard
+
+## Session 5 - Hack fast, hack furious
+
+![Hack the car](https://media.giphy.com/media/low7gwxDpiijiCEWdd/giphy-downsized-large.gif)
+
+Noi, Abdul, and John Casey have pursued Mikel Johanson on his hoverboard (who was being pursued by l-hosts).
