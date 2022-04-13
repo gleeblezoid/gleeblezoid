@@ -156,10 +156,11 @@ We pulled up in front of the Eschaton Electronics warehouse when we followed the
 
 Rimbauld replaced his original body with an L-host and also has a creepy serial killer wall.
 
-We pasted the l-hosts (one literally with a hover taxi)
+We pasted the l-hosts (one literally with a hover taxi).
 
 Next session:
 
 - We're burning the cubes of the l-hosts and handing the primary cube to Rosalind Corto
 - We're getting Jocasta Janus to pay to restore all the kidnapped children's cubes (including her son)
 - Working out how to get our gear back will be fun
+- We need to return Mikel to his parents (either directly or via Rosalind Corto)
