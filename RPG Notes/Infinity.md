@@ -18,7 +18,7 @@ As you move through the shining chrome of the NeoTerra arrival terminal, you not
 
 When you order your drink from the gregarious Merovingian behind the counter, you see the expected Cyrillic letters in the machine code on the synthetic paper receipt, in a cypher you've used before. After spending a few seconds decoding it - you get the following:
 
-Agent Nebraska: we believe Providentiae has significant dealings with several corporations on Ariadna with ties to terrorist elements you are familiar with, but have acted to keep their interests and activities concealed from us.
+Agent Nebraska: we believe Providential has significant dealings with several corporations on Ariadna with ties to terrorist elements you are familiar with, but have acted to keep their interests and activities concealed from us.
 
 No proof has yet been forthcoming, but you have an opportunity: either covertly obtain evidence of their operations on Ariadna so we can step in officially - or speak with Janus covertly to try and ascertain what she is doing and dissuade her continued involvement. Given you will be responsible for both the safe return of her son, and the punishment of his kidnappers, I'm sure you establish something to offer her.
 </details>
@@ -164,3 +164,15 @@ Next session:
 - We're getting Jocasta Janus to pay to restore all the kidnapped children's cubes (including her son)
 - Working out how to get our gear back will be fun
 - We need to return Mikel to his parents (either directly or via Rosalind Corto)
+
+## Session 6 - Kick them in the mainframe
+
+Genuinely super weird that Rimbauld had the money for 6 l-hosts.
+
+Noi fucking aced a hack into the building network (4 momentum) - the building doesn't belong to Providential, it belongs to High Tide communications.
+
+Noi hacked Providential and found:
+
+- high value information on top secret secure builds (including exploits for those builds)
+- information on offworld projects including mining projects in Ariadna linked to extremely dodgy families (including a massive one which is very criminal looking)
+
