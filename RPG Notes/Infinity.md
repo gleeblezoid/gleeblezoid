@@ -176,3 +176,19 @@ Noi hacked Providential and found:
 - high value information on top secret secure builds (including exploits for those builds)
 - information on offworld projects including mining projects in Ariadna linked to extremely dodgy families (including a massive one which is very criminal looking)
 
+We managed to persuade Jocasta Janus to pay for the kids' resurrections and get us off the hook for the trial (plus we got our stuff back).
+
+
+## Session 7 - 
+
+My mission is now to try and get an Adhesive Launcher (ADHL) - it's an anti-vehicle glue blob launcher ffs.
+
+I got one!
+
+We're being sent to Paradiso to investigate voodoo tech smuggling - there's Yu Jing and PanOceanian interest in the smuggling.
+
+We are being deployed far away from the battle lines.
+
+The primary goal is to investigate who is smuggling the voodoo tech and where.
+
+A smugglers camp was destroyed by soldiers but clearly the operation is ongoing.
