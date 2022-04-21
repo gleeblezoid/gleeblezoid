@@ -179,7 +179,7 @@ Noi hacked Providential and found:
 We managed to persuade Jocasta Janus to pay for the kids' resurrections and get us off the hook for the trial (plus we got our stuff back).
 
 
-## Session 7 - 
+## Session 7 - Paradiso Lost
 
 My mission is now to try and get an Adhesive Launcher (ADHL) - it's an anti-vehicle glue blob launcher ffs.
 
@@ -191,4 +191,41 @@ We are being deployed far away from the battle lines.
 
 The primary goal is to investigate who is smuggling the voodoo tech and where.
 
-A smugglers camp was destroyed by soldiers but clearly the operation is ongoing.
+A smugglers camp was destroyed recently but clearly the operation is ongoing.
+
+The soldiers who discovered the bodies are available to be interviewed by us.
+
+<details><summary> Secret Note from handler </summary>
+
+It is disappointing you were unable to assist on NeoTerra.
+
+That being the case, we ask that you find what you can about the Voodootech smuggling - and if you can obtain a sample of the technology, our scientists would appreciate it - though not enough to attract the ire of Aleph.
+
+</details>
+
+We met up with our local contact who is working with Abigail (our O12 handler) in the local O12 office HQ.
+
+We've been asked to meet our contact Indigo Bipandra in a night club nearby.
+
+The soldiers who found the camp have a commander (Ping Hua
+) who we can meet with to get interview time with the soldiers.
+
+Fusilier Angus (he/him) - silly fusilier
+
+Fusilier Papindra (she/her) - epic fusilier
+
+Nimruz' dog's name is Steve
+
+Nimruz and Alex failed to find the Angus dude, but it's cool because he went to another bar - so guess we better trek around to find him.
+
+There's a belief that a local corp is probably working with the smugglers given the use of a cargo freighter by the smugglers.
+
+Providential have a transport/logistics presence in the area and with a freight shipping contract.
+
+There's a large Yu Jing freight corp too but it's "above suspicion" because of its party ties.
+
+Yu Jing contact has told us that Papindra is a loose cannon and less trustworthy than her partner Angus.
+
+Next session follow up with both halves of the group:
+
+- PUB CRAWL!!!
