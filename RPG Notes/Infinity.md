@@ -229,3 +229,5 @@ Yu Jing contact has told us that Papindra is a loose cannon and less trustworthy
 Next session follow up with both halves of the group:
 
 - PUB CRAWL!!!
+
+![Steve knows what's what](https://media.giphy.com/media/ZVTCV8rPmymFa/giphy.gif)
