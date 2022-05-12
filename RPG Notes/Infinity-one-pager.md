@@ -35,7 +35,8 @@ is believed.
 of a program or piece of equipment while leaving others intact.
 
 **Lock Connection:** The target cannot disconnect from the current system. An Absterge action can be used to clear this effect.
-Revoke Authentication: An authentication possessed by the target (usually to the current system) is revoked. The revocation is permanent and the authentication is not restored even when the Breach is removed, although nothing prevents the character from gaining new authentication on the system.
+
+**Revoke Authentication:** An authentication possessed by the target (usually to the current system) is revoked. The revocation is permanent and the authentication is not restored even when the Breach is removed, although nothing prevents the character from gaining new authentication on the system.
 
 **System Disruption:** The target suffers +1 difficulty to any actions requiring use of equipment with the Comms Equipped or Expert qualities (including their comlog).
 
