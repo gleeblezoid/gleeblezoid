@@ -74,7 +74,7 @@ Rimbauld created a large academic work which we also stole (thanks Noi).
 
 The targeted children are determined randomly, but we've discovered the seed to the randomness. John Casey's data analysis work has not only tracked the source of the random data which feeds the murder algorithm, he's cracked the algorithm so we can find the next victim.
 
-Things we might want to do next session:
+### Things we might want to do next session:
 
 - Tail the next victim
 - Look into the academic work from Rimbauld
@@ -100,7 +100,7 @@ The apparently Spanish accented l-host who survived longer yelled "No mercy for 
 
 We all got arrested after taking down the l-hosts, though Abdul managed to stabilise one of them.
 
-End of session:
+### End of session:
 
 - Alex, Nimruz, and Abdul all got arrested (though we're only just going into custody) 
 - Surveillance has been set up on Kaia
@@ -130,7 +130,7 @@ Rimbauld is in the St Rafael sanctuary where he's being cared for (allegedly) af
 A set of L-hosts do indeed go after Mikel Johanson and are following him - even on his cool hoverboard.
 
 
-Next session:
+### Next session:
 
 Car chases car chases car chasing hoverboard
 
@@ -158,7 +158,7 @@ Rimbauld replaced his original body with an L-host and also has a creepy serial 
 
 We pasted the l-hosts (one literally with a hover taxi).
 
-Next session:
+### Next session:
 
 - We're burning the cubes of the l-hosts and handing the primary cube to Rosalind Corto
 - We're getting Jocasta Janus to pay to restore all the kidnapped children's cubes (including her son)
@@ -203,30 +203,29 @@ That being the case, we ask that you find what you can about the Voodootech smug
 
 </details>
 
-We met up with our local contact who is working with Abigail (our O12 handler) in the local O12 office HQ.
+- We met up with our local contact who is working with Abigail (our O12 handler) in the local O12 office HQ.
 
-We've been asked to meet our contact Indigo Bipandra in a night club nearby.
+- We've been asked to meet our contact Indigo Bipandra in a night club nearby.
 
-The soldiers who found the camp have a commander (Ping Hua
-) who we can meet with to get interview time with the soldiers.
+- The soldiers who found the camp have a commander (Ping Hua) who we can meet with to get interview time with the soldiers.
 
-Fusilier Angus (he/him) - silly fusilier
+- Fusilier Angus (he/him) - silly fusilier
 
-Fusilier Papindra (she/her) - epic fusilier
+- Fusilier Papindra (she/her) - epic fusilier
 
-Nimruz' dog's name is Steve
+- Nimruz' dog's name is Steve
 
-Nimruz and Alex failed to find the Angus dude, but it's cool because he went to another bar - so guess we better trek around to find him.
+- Nimruz and Alex failed to find the Angus dude, but it's cool because he went to another bar - so guess we better trek around to find him.
 
-There's a belief that a local corp is probably working with the smugglers given the use of a cargo freighter by the smugglers.
+- There's a belief that a local corp is probably working with the smugglers given the use of a cargo freighter by the smugglers.
 
-Providential have a transport/logistics presence in the area and with a freight shipping contract.
+- Providential have a transport/logistics presence in the area and with a freight shipping contract.
 
-There's a large Yu Jing freight corp too but it's "above suspicion" because of its party ties.
+- There's a large Yu Jing freight corp too but it's "above suspicion" because of its party ties.
 
-Yu Jing contact has told us that Papindra is a loose cannon and less trustworthy than her partner Angus.
+- Yu Jing contact has told us that Papindra is a loose cannon and less trustworthy than her partner Angus.
 
-Next session follow up with both halves of the group:
+### Next session follow up with both halves of the group:
 
 - PUB CRAWL!!!
 
