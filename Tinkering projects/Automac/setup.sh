@@ -54,6 +54,8 @@ echo "Install closed source apps"
 sudo ./scripts/installBinaries.sh
 
 echo "Set up git config"
-git config --global user.name "gleeblezoid" && git config --global user.email hello@gleeblezoid.com
+echo "Enter the email for your commits:"
+read -r email
+git config --global user.name "gleeblezoid" && git config --global user.email "$email"
 
 sudo reboot
