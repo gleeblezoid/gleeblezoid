@@ -47,7 +47,8 @@ of the target, giving them authentication for one system that the target has acc
 ## METANOIA EFFECTS
 
 The following effects can be applied whenever Metanoia is inflicted during a Psywar scene, or in any other circumstance where Metanoia is inflicted.
-Break Social Connection: A dyadic link connecting the target to another social zone is broken. Remove the link from the social network map.
+
+**Break Social Connection:** A dyadic link connecting the target to another social zone is broken. Remove the link from the social network map.
 
 **Create Social Connection:** A dyadic link is created between the target and another social zone. (This might represent convincing them to join an organ- isation, swearing a blood oath to destroy their new archenemy, booking them to perform at a concert, or moving them into a safe house.)
 
