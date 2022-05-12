@@ -232,7 +232,7 @@ Next session follow up with both halves of the group:
 
 ![Steve knows what's what](https://media.giphy.com/media/ZVTCV8rPmymFa/giphy.gif)
 
-## Session 8 - The Beef with Angus
+## Session 8 - The Beef with Angus (the Dangus)
 
 - We find Angus in a pub where a birthday party for Huang Li's 50th is going on - apparently he's a bigwig in the SubMondo of the planet.
 
@@ -240,3 +240,8 @@ Next session follow up with both halves of the group:
 
 - Turns out Nimruz and I aren't great at shaking a tail so we're being pretty easily followed by some kind of shitty Batman ripoff.
 
+- Angus the Dangus is an absolute potato
+
+- YJITC is the YuJing shipping corp; Papindra tried to break into the YJITC at midnight to grab the evidence and meet up in Angus's room after that
+
+- Angus the Dangus has some copies of the evidence from the smuggling ring but his copies match what we have
