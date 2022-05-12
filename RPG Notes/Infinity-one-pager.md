@@ -39,7 +39,7 @@ Revoke Authentication: An authentication possessed by the target (usually to the
 
 **System Disruption:** The target suffers +1 difficulty to any actions requiring use of equipment with the Comms Equipped or Expert qualities (including their comlog).
 
-**Spoof/Sniff: **The hacker duplicates the system ID
+**Spoof/Sniff:** The hacker duplicates the system ID
 of the target, giving them authentication for one system that the target has access to. The hacker can spend Momentum to either improve the quality of the authentication (making their spoof harder to detect) or to gain additional authentication (one per Momentum).
 
 **Tag:** The hacker tags the target system. This allows them to track the target. In addition, they can use a tagged target as a repeater.
@@ -56,9 +56,9 @@ Force an Action: The target is forced, convinced, or otherwise compelled to atte
 
 **Forge Friendship:** The target becomes friends with someone (usually the person interacting with them, although a good wingman might be able to hook them up with someone else).
 
-**Gain Information: **This does not necessarily mean getting the target to openly reveal the information in question. You might bluff them into glancing at where they’ve hidden an object. Or do enough social data mining to crack their password.
+**Gain Information:** This does not necessarily mean getting the target to openly reveal the information in question. You might bluff them into glancing at where they’ve hidden an object. Or do enough social data mining to crack their password.
 
-**Gain/Lose Access:**As a Metanoia Effect, a char- acter can gain (or lose) access to a dyadic link (see p. 125).
+**Gain/Lose Access:** As a Metanoia Effect, a char- acter can gain (or lose) access to a dyadic link (see p. 125).
 
 **Influence Belief:** Convince the target that something is true (whether it is or not). This can extend to altering their personal value system and reasoning, or at least temporarily being willing to ignore them.
 Monitor: Learn what actions the target is taking in the “real world” by collecting gossip, having them followed, questioning their associates, or the like.
