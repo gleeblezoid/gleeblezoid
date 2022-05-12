@@ -231,3 +231,12 @@ Next session follow up with both halves of the group:
 - PUB CRAWL!!!
 
 ![Steve knows what's what](https://media.giphy.com/media/ZVTCV8rPmymFa/giphy.gif)
+
+## Session 8 - The Beef with Angus
+
+- We find Angus in a pub where a birthday party for Huang Li's 50th is going on - apparently he's a bigwig in the SubMondo of the planet.
+
+- We led Angus out by promising pizza and leading him away, he's been followed and we're meant to meet in room 314 of a hotel that Papindra picked out (The Long Hotel).
+
+- Turns out Nimruz and I aren't great at shaking a tail so we're being pretty easily followed by some kind of shitty Batman ripoff.
+
