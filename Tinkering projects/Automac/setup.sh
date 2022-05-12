@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/bin/sh
 
-set -eo pipefail
+set -e
 
 echo "Check for xcode and install"
-if [[ ! -f "/Library/Developer/CommandLineTools" ]]; then
+if [ ! -f "/Library/Developer/CommandLineTools" ]; then
     xcode-select --install
 fi
 
@@ -15,7 +15,7 @@ sudo curl -O https://distfiles.macports.org/MacPorts/MacPorts-2.7.1.tar.bz2
 tar xjvf MacPorts-2.7.1.tar.bz2
 cd MacPorts-2.7.1
 ./configure && make && sudo make install
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=/opt/local/bin:/opt/local/sbin:"$PATH"
 sudo port -v selfupdate
 cd ../
 rm -rf MacPorts-2.7.1*

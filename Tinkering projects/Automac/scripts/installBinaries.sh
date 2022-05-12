@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 mkdir packages &&
 cd packages &&
@@ -18,11 +18,11 @@ hdiutil mount Vivaldi.4.3.2439.65.universal.dmg &&
 cp /Volumes/Vivaldi\ 4.3.2439.65.dmg/Vivaldi.app /Applications/Vivaldi.app &&
 hdiutil detach /Volumes/Vivaldi\ 4.3.2439.65.dmg &&
 
-curl -LJO https://code.visualstudio.com/sha/download\?build\=stable\&os\=darwin-universal &&
+curl -LJO "https://code.visualstudio.com/sha/download\?build\=stable\&os\=darwin-universal" &&
 unzip VSCode-darwin-universal.zip &&
 cp Visual\ Studio\ Code.app /Applications/Visual\ Studio\ Code.app &&
 
-curl -LJO https://electron.authy.com/download?channel=stable&arch=x64&platform=darwin&version=latest&product=authy &&
+curl -LJO "https://electron.authy.com/download?channel=stable&arch=x64&platform=darwin&version=latest&product=authy" &&
 mv download\?channel=stable\&arch=x64\&platform=darwin\&version=latest\&product=authy Authy\ Desktop-1.9.0.dmg &&
 hdiutil mount Authy\ Desktop-1.9.0.dmg &&
 sudo cp -r /Volumes/Authy\ Desktop\ 1.9.0/Authy\ Desktop.app /Applications/Authy\ Desktop.app &&
