@@ -244,3 +244,10 @@ That being the case, we ask that you find what you can about the Voodootech smug
 - YJITC is the YuJing shipping corp; Papindra tried to break into the YJITC at midnight to grab the evidence and meet up in Angus's room after that
 
 - Angus the Dangus has some copies of the evidence from the smuggling ring but his copies match what we have
+
+Next session:
+
+- Abigail is breaking Nimruz and Steve out of prison
+- We need to decide where to stash Angus the Dangus
+- We need to find Papindra and learn more about the raid she made on YJITC
+- Look into the Providential connection
