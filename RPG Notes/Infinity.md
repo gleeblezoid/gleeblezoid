@@ -211,7 +211,7 @@ That being the case, we ask that you find what you can about the Voodootech smug
 
 - Fusilier Angus (he/him) - silly fusilier
 
-- Fusilier Papindra (she/her) - epic fusilier
+- Fusilier Bipandra (she/her) - epic fusilier
 
 - Nimruz' dog's name is Steve
 
@@ -223,7 +223,7 @@ That being the case, we ask that you find what you can about the Voodootech smug
 
 - There's a large Yu Jing freight corp too but it's "above suspicion" because of its party ties.
 
-- Yu Jing contact has told us that Papindra is a loose cannon and less trustworthy than her partner Angus.
+- Yu Jing contact has told us that Bipandra is a loose cannon and less trustworthy than her partner Angus.
 
 ### Next session follow up with both halves of the group:
 
@@ -235,13 +235,13 @@ That being the case, we ask that you find what you can about the Voodootech smug
 
 - We find Angus in a pub where a birthday party for Huang Li's 50th is going on - apparently he's a bigwig in the SubMondo of the planet.
 
-- We led Angus out by promising pizza and leading him away, he's been followed and we're meant to meet in room 314 of a hotel that Papindra picked out (The Long Hotel).
+- We led Angus out by promising pizza and leading him away, he's been followed and we're meant to meet in room 314 of a hotel that Bipandra picked out (The Long Hotel).
 
 - Turns out Nimruz and I aren't great at shaking a tail so we're being pretty easily followed by some kind of shitty Batman ripoff.
 
 - Angus the Dangus is an absolute potato
 
-- YJITC is the YuJing shipping corp; Papindra tried to break into the YJITC at midnight to grab the evidence and meet up in Angus's room after that
+- YJITC is the YuJing shipping corp; Bipandra tried to break into the YJITC at midnight to grab the evidence and meet up in Angus's room after that
 
 - Angus the Dangus has some copies of the evidence from the smuggling ring but his copies match what we have
 
@@ -249,5 +249,41 @@ Next session:
 
 - Abigail is breaking Nimruz and Steve out of prison
 - We need to decide where to stash Angus the Dangus
-- We need to find Papindra and learn more about the raid she made on YJITC
+- We need to find Bipandra and learn more about the raid she made on YJITC
 - Look into the Providential connection
+
+## Session 9 - The Steve-shank Redemption
+
+- We've now been given temporary Yănjīng agent status
+
+- We've stashed Angus in the O12 Ops post
+
+- We need to find Bapindra
+
+- Searching Angus' room, Casey finds a Celestial Guard tag and what looks like a room card for 423,B (Bapindra's room)
+
+- Bapindra's room contains a monitoring device that has been carefully deactivated, a brochure for the new local YJTC office advertising vacancies with a map of the YJTC building
+
+- Bapindra seems to have taken her equipment with her
+
+- In Angus' room there's a disabled listening device - but this one looks to have been overloaded electronically
+
+- Noi and Nimruz got into the embassy; Nimruz physically with a lent repeater and Noi by hacking
+
+- Noi now has uber permissions in the PanO embassy
+
+- John Casey has profiled Bapindra with help from Nimruz to help with the search
+
+- Lt. Ivonete Sosa is Bapindra's CO
+
+- Based on how Angus got sent to meet us on his own and cut out of Bapindra's plans, I'm very convinced he's been dumped on us as a babysit job (kind of backed by Ted asking us to think about why he got sent to the bar).
+
+Next session:
+
+- We're going to investigate the break-in at YJTC by Bapindra to get our noses in there using our shiny new Yănjīng agent status
+
+- We might also stake out the YJTC to see if Bapindra will turn up
+
+- We might want to ask SubMondo about any connection to Bapindra
+
+- Do we even care about Bapindra? Do we care more about what she went after and any potential connection to the voodoo tech? 
