@@ -1,7 +1,5 @@
 #!/bin/sh
 
-set -e
-
 touch_id_sudo () {
     echo "Add touchID sudo"
     sed -i '' '2i\
@@ -19,7 +17,7 @@ install_xcode () {
 
 zsh_setup () {
     echo "Set up oh-my-zsh and zsh config"
-    sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\
     && sudo cp config/zsh-config.txt "$HOME"/.zshrc
     sudo sh -c source ~/.zshrc
 }
@@ -28,7 +26,7 @@ install_macports () {
     echo "MacPorts Install"
     sudo curl -O https://distfiles.macports.org/MacPorts/MacPorts-2.7.1.tar.bz2
     tar xjvf MacPorts-2.7.1.tar.bz2
-    cd MacPorts-2.7.1
+    cd MacPorts-2.7.1 || exit
     ./configure && make && sudo make install
     export PATH=/opt/local/bin:/opt/local/sbin:"$PATH"
     sudo port -v selfupdate
@@ -38,7 +36,7 @@ install_macports () {
 
 install_mac_store_and_apps () {
     # I might need to authenticate with the App Store before mas runs
-    cd $HOME
+    cd "$HOME" || exit
     echo "Install Mac App Store CLI"
     sudo port install mas
     echo "Install xcode full"
