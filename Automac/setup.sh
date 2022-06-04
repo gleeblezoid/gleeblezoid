@@ -11,14 +11,17 @@ touch_id_sudo () {
 
 install_xcode () {
     echo "Check for xcode and install"
-    if [ ! -f "/Library/Developer/CommandLineTools" ]; then
+    if [ ! -d "/Library/Developer/CommandLineTools" ]; then
         xcode-select --install
+	sleep 1800
     fi
 }
 
 zsh_setup () {
     echo "Set up oh-my-zsh and zsh config"
-    sudo curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh && sudo cp config/zsh-config.txt "$HOME"/.zshrc
+    sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    && sudo cp config/zsh-config.txt "$HOME"/.zshrc
+    sudo sh -c source ~/.zshrc
 }
 
 install_macports () {
@@ -35,6 +38,7 @@ install_macports () {
 
 install_mac_store_and_apps () {
     # I might need to authenticate with the App Store before mas runs
+    cd $HOME
     echo "Install Mac App Store CLI"
     sudo port install mas
     echo "Install xcode full"
@@ -55,7 +59,6 @@ install_my_ports () {
     echo "Install ports from list"
     sudo curl --location --remote-name https://github.com/macports/macports-contrib/raw/master/restore_ports/restore_ports.tcl
     sudo chmod +x restore_ports.tcl
-    sudo xattr -d com.apple.quarantine restore_ports.tcl
     sudo ./restore_ports.tcl config/myports.txt
 }
 
@@ -84,14 +87,15 @@ setup_git_config () {
 }
 
 
+echo "Make sure you're logged into the App Store with your Apple ID"
 touch_id_sudo
 install_xcode
-zsh_setup
 install_macports
-install_mac_store_and_apps
+zsh_setup
 install_my_ports
 install_powerlevel
 install_apps_from_binaries
 setup_trackpad_and_touchbar
 setup_git_config
+install_mac_store_and_apps
 sudo reboot
