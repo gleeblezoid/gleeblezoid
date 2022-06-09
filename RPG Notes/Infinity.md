@@ -287,3 +287,37 @@ Next session:
 - We might want to ask SubMondo about any connection to Bapindra
 
 - Do we even care about Bapindra? Do we care more about what she went after and any potential connection to the voodoo tech? 
+
+# Session 10 - Hack the Planet
+
+- Noi and John are going to scope out the YJITC security (physical and digital)
+
+- The reception area has a constant guard with a heavy weapon
+
+- The networks in the building are Building, Employee, and Customer
+
+- Kozu/Lee Jun is the person who gave us Yănjīng agent status
+
+- Pin Hua is the person in Yujing who was working alongside Baprindra
+
+- There was a routine security drill planned for midnight which Bapindra took advantage of, she came in through the front doors and hid in one of the cubicles until sneaking into the server room while taking down the guards. She then left the building and disappeared.
+
+The city network then got hacked shortly afterwards.
+
+Bapindra left the building and was picked up by a celestial guard patrol (she overpowered them and escaped), she stopped by the PanO embassy for about 30 mins and left again. The suspicion is that PanO are trying to gather evidence.
+
+Chances are she's hiding outside the city or amongst PanO soldiers.
+
+- Bapindra's actions suggest she anticipated being caught on surveillance and so either counted on PanO backing or figured it was worth it
+
+- The shipping hub entrances are limited to 2 - main door and shipping hub
+
+- Bapindra broke in wearing her uniform which suggests she'd be seen as a combatant rather than a spy - combatants get open sentences, spies get "disappeared"
+
+- A worm was used to destroy a load of the data in the YJITC server room - it was very sophisticated (military grade) and it looks like the attack was initiated from a massively powerful computer in the city
+
+- Two major sectors exist:
+  - PanO Nation = Syldavia
+  - Yu Jing = YingXian
+
+- We met a Mongol raider who told us that Bapindra went into the Providential compound
