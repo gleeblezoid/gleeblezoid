@@ -357,3 +357,9 @@ You'll be forwarded several documents that indicate:
 - A Bureau Agni team sent to conduct extreme field testing of a new type of cold-weather lidar array.
 
 Apparently we're going to an absolute shithole which is super duper frozen.
+
+We made friends with Yuriko Oda who's somekind of Japanese Liberation Army terrorist - she's going to help us with the Providential investigation in exchange for blowing some stuff up.
+
+- Checking the facility out in the tundra we find it has 2 secured doors, one for personnel and one for vehicles.
+
+- We should really buy night vision goggles.
