@@ -14,7 +14,7 @@ We're on our first mission for O12 - we're being briefed by Jocasta Janus (CEO o
 - We have the basic details for the son
 
 <details><summary> Secret Note from handler </summary>
-As you move through the shining chrome of the NeoTerra arrival terminal, you notice a run-down Retrovert coffee shop you recognise, sat towards the unfashionable end of the terminal, half-hidden by the gaudy pink neon of the souvenir shop next-door. Few NeoTerrans seem to patronise it, but you note a couple of the Spaceport staff hunched over tables, sipping drinks. One wears the patch of the 101 responders. 
+As you move through the shining chrome of the NeoTerra arrival terminal, you notice a run-down Retrovert coffee shop you recognise, sat towards the unfashionable end of the terminal, half-hidden by the gaudy pink neon of the souvenir shop next-door. Few NeoTerrans seem to patronise it, but you note a couple of the Spaceport staff hunched over tables, sipping drinks. One wears the patch of the 101 responders.
 
 When you order your drink from the gregarious Merovingian behind the counter, you see the expected Cyrillic letters in the machine code on the synthetic paper receipt, in a cypher you've used before. After spending a few seconds decoding it - you get the following:
 
@@ -27,7 +27,7 @@ Jocasta's assisstant is called Philemina Perez
 
 In the meeting with Jocasta:
 
-` You see the room is rather messy - it looks like it's not been well cared for of late. You can see a red stain near the window that looks like it's been recently cleaned.`
+`You see the room is rather messy - it looks like it's not been well cared for of late. You can see a red stain near the window that looks like it's been recently cleaned.`
 
 There have been an upsurge in kidnappings of children.
 
@@ -35,7 +35,7 @@ The other kidnappings have been happening once a week every week for the past se
 
 No connections between the families of the kidnapped children, oldest is 13, serial killer suspected, and mostly kids who "would not be missed". DNA evidence found a past EOL L-host around 2 years old.
 
-> There is a dealer called Jack Frost who deals in off-market L-hosts 
+> There is a dealer called Jack Frost who deals in off-market L-hosts
 
 Rosalind has provided us with her files on all the kidnappings. We could potentially get files from the school by hacking, get Jack Frost or his files.
 
@@ -63,7 +63,7 @@ John, Abdul, and Noi are all setting up hacks.
 
 Kidnapping took place 5 days ago from a bathroom on the second floor and no evidence was found beyond the DNA evidence and signs of a struggle.
 
-Noi got into the employee records, one of the janitors has a next of kin listed as Kaia nearish the school and it looks like the employment records have recently been infiltrated and changed. 
+Noi got into the employee records, one of the janitors has a next of kin listed as Kaia nearish the school and it looks like the employment records have recently been infiltrated and changed.
 This janitor record doesn't look legit.
 
 Father Rimbauld is no longer employed by the church and used to be a cybersecurity professional employed by the church (seems like he was a spy/information gatherer).
@@ -74,7 +74,7 @@ Rimbauld created a large academic work which we also stole (thanks Noi).
 
 The targeted children are determined randomly, but we've discovered the seed to the randomness. John Casey's data analysis work has not only tracked the source of the random data which feeds the murder algorithm, he's cracked the algorithm so we can find the next victim.
 
-### Things we might want to do next session:
+### Things we might want to do next session
 
 - Tail the next victim
 - Look into the academic work from Rimbauld
@@ -93,16 +93,15 @@ We have Rimbauld's address and some information on him from Noi's hacking in the
 
 Nimruz starts digging into the public Mayanet presence for Rimbauld - Rimbauld seems to have gone off-grid for the past 6 weeks.
 
-
 Abdul, Nimruz, and I are teaming up to stake out Rimbauld's address - we got attacked by a pair of l-hosts purchased by Rimbauld/Kaia
 
 The apparently Spanish accented l-host who survived longer yelled "No mercy for deicides" at us.
 
 We all got arrested after taking down the l-hosts, though Abdul managed to stabilise one of them.
 
-### End of session:
+### End of session
 
-- Alex, Nimruz, and Abdul all got arrested (though we're only just going into custody) 
+- Alex, Nimruz, and Abdul all got arrested (though we're only just going into custody)
 - Surveillance has been set up on Kaia
 - Surveillance and some information has been gathered on the next victim (Mikel Johanson)
 - It's mid-afternoon on Saturday, we expect the kidnapping to take place on the day after
@@ -111,7 +110,7 @@ Kinna Cardasso - receptionist at Rimbauld's apartment building
 
 ## Session 4 - Orange is the New Black Hat
 
-- My arm should heal up over the next day 
+- My arm should heal up over the next day
 
 Looking into Kaia revealed some weird tech specs which all trace back to a company called Eschaton Electronics - this company has an abandoned facility in the north of the city.
 
@@ -129,8 +128,7 @@ Rimbauld is in the St Rafael sanctuary where he's being cared for (allegedly) af
 
 A set of L-hosts do indeed go after Mikel Johanson and are following him - even on his cool hoverboard.
 
-
-### Next session:
+### Next session
 
 Car chases car chases car chasing hoverboard
 
@@ -140,7 +138,7 @@ Car chases car chases car chasing hoverboard
 
 Noi, Abdul, and John Casey have pursued Mikel Johanson on his hoverboard (who was being pursued by l-hosts).
 
-Nimruz has gone to speak to Kaia so that we can track down Rimbauld. 
+Nimruz has gone to speak to Kaia so that we can track down Rimbauld.
 
 Turns out Kaia is actually a skilled social manipulator and so she and Nimruz have an interesting battle of wits.
 
@@ -152,13 +150,13 @@ We managed to get some information on Rimbauld from Kaia's devices.
 
 Now we're in a terrible car chase again. I did manage to do a barrel roll and yank Abdul out of his car into the main car.
 
-We pulled up in front of the Eschaton Electronics warehouse when we followed the l-host taxi. 
+We pulled up in front of the Eschaton Electronics warehouse when we followed the l-host taxi.
 
 Rimbauld replaced his original body with an L-host and also has a creepy serial killer wall.
 
 We pasted the l-hosts (one literally with a hover taxi).
 
-### Next session:
+### For next session
 
 - We're burning the cubes of the l-hosts and handing the primary cube to Rosalind Corto
 - We're getting Jocasta Janus to pay to restore all the kidnapped children's cubes (including her son)
@@ -177,7 +175,6 @@ Noi hacked Providential and found:
 - information on offworld projects including mining projects in Ariadna linked to extremely dodgy families (including a massive one which is very criminal looking)
 
 We managed to persuade Jocasta Janus to pay for the kids' resurrections and get us off the hook for the trial (plus we got our stuff back).
-
 
 ## Session 7 - Paradiso Lost
 
@@ -225,7 +222,7 @@ That being the case, we ask that you find what you can about the Voodootech smug
 
 - Yu Jing contact has told us that Bipandra is a loose cannon and less trustworthy than her partner Angus.
 
-### Next session follow up with both halves of the group:
+### Next session follow up with both halves of the group
 
 - PUB CRAWL!!!
 
@@ -286,9 +283,9 @@ Next session:
 
 - We might want to ask SubMondo about any connection to Bapindra
 
-- Do we even care about Bapindra? Do we care more about what she went after and any potential connection to the voodoo tech? 
+- Do we even care about Bapindra? Do we care more about what she went after and any potential connection to the voodoo tech?
 
-# Session 10 - Hack the Planet
+## Session 10 - Hack the Planet
 
 - Noi and John are going to scope out the YJITC security (physical and digital)
 
@@ -321,3 +318,22 @@ Chances are she's hiding outside the city or amongst PanO soldiers.
   - Yu Jing = YingXian
 
 - We met a Mongol raider who told us that Bapindra went into the Providential compound
+
+## Session 11 -v The Svearch for Svalheimer
+
+Leads from the last session:
+
+- Svalheimer
+- Dealings with the Nomad terrorist group (Equinox)
+- Rosario Lina (kidnapped by the Hassasin)
+
+The name "Yuriko Oda" comes up in the docs that we took from Providential multiple times.
+
+Most of the business we want to investigate in Svalheimer goes through one of the ports there via the following businesses AllianceTransport Group (in the capital), Lui Shipping, and Nandock Enterprises.
+
+You'll be forwarded several documents that indicate:
+
+- You are a group of three explorers from the Bureau Gaea, tasked to investigate reports of corporate terraforming violations in the Svalarheima.
+- A Bureau Agni team sent to conduct extreme field testing of a new type of cold-weather lidar array.
+
+Apparently we're going to an absolute shithole which is super duper frozen.
