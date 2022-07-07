@@ -319,7 +319,27 @@ Chances are she's hiding outside the city or amongst PanO soldiers.
 
 - We met a Mongol raider who told us that Bapindra went into the Providential compound
 
-## Session 11 -v The Svearch for Svalheimer
+## Session 11 - Providential
+
+- There's a "plant" room which consumes a huge amount more power than expected
+
+- There were 2 scary looking cool projects - "Equinox" and "The Ring"
+
+- Discovered a entity called the "Heatwave Enclave" located on Bakunin mentioned in the Equinox files, Equinox is a terrorist org/movement who believe that humanity is on the wrong path.
+
+- Providential are in cahoots with the combined army, a creepy alien helicopter broadcasting that it's a legit delivery vehicle visited and left the Providential base (filled with Morat troopers)
+
+- The creepy helicopter went East when it left
+
+- Bapindra got executed by the combined army, those were the 3 gunshots we heard
+
+- Angus broke into the base with a pizza van, shortly before we broke in with a pizza van
+
+- It looks like a lot of dodgy goods are being shipped to Svarlheim(probably the voodoo-tech)
+
+- We found a reference to a Rosario Lena from Providential who is listed as kill on site by Providential
+
+## Session 12 - The Svearch for Svalheimer
 
 Leads from the last session:
 
