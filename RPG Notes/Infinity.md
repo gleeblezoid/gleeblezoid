@@ -363,3 +363,11 @@ We made friends with Yuriko Oda who's somekind of Japanese Liberation Army terro
 - Checking the facility out in the tundra we find it has 2 secured doors, one for personnel and one for vehicles.
 
 - We should really buy night vision goggles.
+
+- We managed to break into the storage facility via John Casey's badassery.
+
+<details><summary> Notes </summary>
+
+I stole 4 cubes from a crate of voodoo tech in the warehouse we broke into and want to drop it off ASAP to my handlers.
+
+</details>
