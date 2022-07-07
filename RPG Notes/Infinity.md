@@ -371,3 +371,5 @@ We made friends with Yuriko Oda who's somekind of Japanese Liberation Army terro
 I stole 4 cubes from a crate of voodoo tech in the warehouse we broke into and want to drop it off ASAP to my handlers.
 
 </details>
+
+There's an experimental research facility on the planet called The Hyō Shō Dome within 56km of the storage outpost we broke into.
