@@ -373,3 +373,20 @@ I stole 4 cubes from a crate of voodoo tech in the warehouse we broke into and w
 </details>
 
 There's an experimental research facility on the planet called The Hyō Shō Dome within 56km of the storage outpost we broke into.
+
+## Session 13 - Tohaa Time
+
+- A Tohaa agent came to find us in our hotel (an elite operative)
+- Lui Shipping seem to have some mismatches in their accounts which suggest hiding what they're shipping (smuggling maybe? lots of reference to R&D items) - there's a reference to Nandock shipping as well
+- Nandock Shipping has a legitimate looking government contract to transport R&D items to a private company
+- Alliance Transport (not local) - we were unable to hack into them
+
+- It looks like there's mysterious shipping to various pods around the city
+
+- John Casey cased out the local shipping companies and found that they're essentially sharing vehicles and have surprisingly new equipment as well. Not outwardly suspicious otherwise but Providential have been pretty clever so far.
+
+- When we investigated the pod in the city we found that most of it is dilapidated but the garage section we investigated had been recently repaired
+
+- We're going on a team road trip to the scary secret R&D base
+
+**We need to buy goddamn night vision goggles FFS**
