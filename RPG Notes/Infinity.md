@@ -410,4 +410,34 @@ I managed to secure usage of Buffalo armour you might be able to get one use of 
 
 - We got ourselves hacked into being given a delivery vehicle so we could sneak into the R&D base by dropping off "toilet paper" with John Casey smuggled inside.
 
+- On a terribly insecure lead engineer terminal we find a shit-ton of research on voodootech and combined army vs aleph cubes, all for Providential
+
+- The voodootech samples seen are huge amounts of pristine tech that would not have been salvaged from a battlefield
+
+- So some awesome voodootech arrived and went in a window we failed to capture it.
+
+- Turns out someone was trying to blow up the base (who wasn't us).
+
+- Massive firefight in the R&D base, half the scientists were combined army (probs shapeshifters) and opened up with combi-rifles and needle mines.
+
+- John Casey died saving a scientist and killing a bunch of shapeshifters
+
+- Over the last 6 months the supply of pristine voodootech has shot up, initially (around a year ago) voodootech started coming in.
+
+- Hattail has come with us in the van of "let's take you out to the wilderness"
+
+- Shipments came from Paradiso via shell corps
+
+- Rosario Lena was the only person above the doctor, she's now dead
+
+- The Nomad terrorist Equinox group were kept in the loop on every time the R&D base received a shipment
+
+- The combined army connection with Providential was "board only" level secret
+
+- Three people joined the base within the last week, they were all confirmed shape-shifters from Paradiso
+
+- We've shipped the scientist we rescued to O12
+
+**Next Session:** We're thinking of following the Nomad (Equinox) Nation thread, and also flagging to O12 that Providential should probably be brought down
+
 ##  Session 15 - The goggles, they do NOTHING
