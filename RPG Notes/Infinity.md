@@ -390,3 +390,4 @@ There's an experimental research facility on the planet called The Hyō Shō Dom
 - We're going on a team road trip to the scary secret R&D base
 
 - **We need to buy goddamn night vision goggles FFS**
+
