@@ -376,6 +376,13 @@ There's an experimental research facility on the planet called The Hyō Shō Dom
 
 ## Session 13 - Tohaa Time
 
+
+<details><summary> Notes </summary>
+
+I managed to drop off the cubes to my handlers.
+
+</details>
+
 - A Tohaa agent came to find us in our hotel (an elite operative)
 - Lui Shipping seem to have some mismatches in their accounts which suggest hiding what they're shipping (smuggling maybe? lots of reference to R&D items) - there's a reference to Nandock shipping as well
 - Nandock Shipping has a legitimate looking government contract to transport R&D items to a private company
@@ -391,3 +398,16 @@ There's an experimental research facility on the planet called The Hyō Shō Dom
 
 - **We need to buy goddamn night vision goggles FFS**
 
+## Session 14 - We bought the fucking goggles
+
+- We finally bought the goddamn goggles, John went for low-light ones and Alex went for thermals
+  
+<details><summary> Notes </summary>
+
+I managed to secure usage of Buffalo armour you might be able to get one use of in a combat zone that Ariadna is involved in.
+
+</details>
+
+- We got ourselves hacked into being given a delivery vehicle so we could sneak into the R&D base by dropping off "toilet paper" with John Casey smuggled inside.
+
+##  Session 15 - The goggles, they do NOTHING
