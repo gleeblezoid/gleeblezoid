@@ -1,10 +1,26 @@
 # Rules Notes
 
+## Combat
+
+- P328 - Opportunity spend examples
+- P250 -  Conflict breakdown
+
 ## Spells
 
 - Invocations once per scene outside of conflict or dire cirmcumstance
 - Channeling allows you to set aside results (ish) from a previous roll
 - Rituals are typically a downtime activity
+
+Spiritual offerings
+Different types of spirits prefer different offerings, some examples of which are provided below:
+
+$ Air Spirits: Incense, feathers, flowers
+$ Earth Spirits: Salt, soil or stones from
+sacred places, seeds
+$ Water Spirits: Coins, seashells, precious materials, seaweed, sake
+$ Fire Spirits: Kindling, paper, ash, small flammable objects
+$ Fortunes: Texts, food, origami, works of art
+$ Ancestor Spirits: Food, incense, sake or other libations
 
 ## Die rolls
 
@@ -62,14 +78,14 @@ shinjo's Whispers (AncestrAl), run Alongside the ki-rin (Fortunist), voice oF th
     Air  : If you succeed, you can communicate with an Otherworldly being this way, provided it has anything to say to you.
 
 - Token of Memory Rank 1
-riddle oF AgAshA (AncestrAl), trick oF the Air kAmi (elementAl), eBisu's joke (Fortunist)
+riddle oF Agasha (AncestrAl), trick oF the Air kAmi (elemental), eBisu's joke (Fortunist)
 
     After performing this invocation, the shugenja conjures an illusion from the air, a trick of the light captured in hand.
 
     Activation: As a Scheme action, you may make a TN 2 Theology (Air) check targeting one position at range 0–1
 
 
-    Effects: If you succeed, you summon an illusion of one inanimate object at the target position. The illu- sory object’s size is a silhouette of up to your bonus successes (beginning at 0, or a small handheld object). The item appears real, but it does not actually exist, and it cannot be used. Any character confronted with one of these illusions must resist with a TN 4 Artisan, Smithing, or Design check (Earth 5, Fire 2) using a Scholar skill approach to discern its illusory nature. The object persists until the end of the scene.
+    Effects: If you succeed, you summon an illusion of one inanimate object at the target position. The illusory object’s size is a silhouette of up to your bonus successes (beginning at 0, or a small handheld object). The item appears real, but it does not actually exist, and it cannot be used. Any character confronted with one of these illusions must resist with a TN 4 Artisan, Smithing, or Design check (Earth 5, Fire 2) using a Scholar skill approach to discern its illusory nature. The object persists until the end of the scene.
 
     New Opportunities
 
@@ -103,3 +119,10 @@ riddle oF AgAshA (AncestrAl), trick oF the Air kAmi (elementAl), eBisu's joke (F
     $ You have an elaborate false identity that you have maintained over a long period of time. Many of the people you interact with regularly know you by this identity, and you may even have a family that does not know the truth.
 
     $ After performing a check to maintain your false identity (such as a Courtesy [Air] check to lie about your past or a Skulduggery [Air] check to surreptitiously hide evidence of the truth), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.
+
+- JuroJin’s Blessing (Void)
+  - Types: Physical, Spiritual
+- Effects: The following apply to a character with the Jurojin’s 
+- Blessing distinction:
+    $ You do not contract mundane diseases, and you recover from poisons and supernatu- ral maladies in half the time it would take someone else.
+    $ When performing a check for which you need to survive and remain vital (such as a Fitness [Void] check to resist spiritual contamination or a Survival [Void] check to get by on bare minimum supplies), you may reroll up to two dice.
