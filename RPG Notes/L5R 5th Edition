@@ -4,6 +4,8 @@
 
 - P328 - Opportunity spend examples
 - P250 -  Conflict breakdown
+- P269 - Fatigue rules
+- P97 - XP
 
 ## Spells
 
@@ -50,10 +52,10 @@ Effects: The following apply to a character with the Wordplay passion:
     - After performing a check to interpret or create a play on words (such as a Composition [Air] check to write a poem with a perfectly execut- poetic pun or a Performance [Air] check to subtly imply something to your audience via a double meaning), you remove 3 strife.
 
 - Benten’s Curse (Air)
- 
+
     - Your romantic efforts are always stymied by circumstances, and your gestures to get the romantic attention of others are usually misinterpreted.
 
-    - When you make a check to express your admi- ration to someone (such as an Aesthetics [Air] check to find the right poem to read to express your feelings or a Courtesy [Air] check to tell someone your feelings without exceeding pro- priety), you must choose and reroll two dice containing success or double success. After resolving the check, if you failed, you gain 1 Void point.
+    - When you make a check to express your admiration to someone (such as an Aesthetics [Air] check to find the right poem to read to express your feelings or a Courtesy [Air] check to tell someone your feelings without exceeding propriety), you must choose and reroll two dice containing success or double success. After resolving the check, if you failed, you gain 1 Void point.
 
 - Fox Spirit (School Ability):
 
@@ -63,7 +65,7 @@ Effects: The following apply to a character with the Wordplay passion:
     As a Scheme and Support action, you may transform between your human and true forms, or into another silhouette 1 or 2 natural creature at the GM’s discretion (you cannot mimic specific individuals). Observers with vigilance lower than or equal to your school rank plus your ranks in Performance do not detect any flaws in your façade. However, certain key features persist across all of your forms. If you become Compromised, your disguise slips.
 
 - Nature’s Touch Rank 1
-shinjo's Whispers (AncestrAl), run Alongside the ki-rin (Fortunist), voice oF the glen king (Foreign)
+shinjo's Whispers (Ancestral), run Alongside the ki-rin (Fortunist), voice oF the glen king (Foreign)
 
     To perform this rite, the shugenja seeks Chikushō-dō, the Realm of Animals, in the world around them and in their own heart. This allows the shugenja to communicate with (though not dominate) animals of the mortal realm.
 
@@ -89,7 +91,7 @@ riddle oF Agasha (AncestrAl), trick oF the Air kAmi (elemental), eBisu's joke (F
 
     New Opportunities
 
-    Air : The object can appear to be a creature or per- son (though it does not move).
+    Air : The object can appear to be a creature or person (though it does not move).
 
     Air +: Summon one additional illusory object in range per  spent this way.
 
@@ -124,5 +126,5 @@ riddle oF Agasha (AncestrAl), trick oF the Air kAmi (elemental), eBisu's joke (F
   - Types: Physical, Spiritual
 - Effects: The following apply to a character with the Jurojin’s 
 - Blessing distinction:
-    $ You do not contract mundane diseases, and you recover from poisons and supernatu- ral maladies in half the time it would take someone else.
+    $ You do not contract mundane diseases, and you recover from poisons and supernatural maladies in half the time it would take someone else.
     $ When performing a check for which you need to survive and remain vital (such as a Fitness [Void] check to resist spiritual contamination or a Survival [Void] check to get by on bare minimum supplies), you may reroll up to two dice.
