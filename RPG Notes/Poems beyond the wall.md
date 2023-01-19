@@ -1,3 +1,7 @@
+# Poems beyond the wall
+
+## Lion Lion
+
 Lion Lion, screaming fight
 in the forest full of blight
 with Matsu rage and ringing sound
@@ -17,3 +21,9 @@ Where the hammer? Where the sword?
 That blurred upon the cursed sward
 Here the clearing past the wall
 The Shadows fear the Lion's call
+
+## Cake is a lie
+
+The wall behind us
+Shadowlands show us sweet things
+The cake is a lie
