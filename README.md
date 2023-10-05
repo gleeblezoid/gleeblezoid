@@ -9,7 +9,7 @@ I enjoy going for long walks in the rain, eating gummy sweets, playing games (bo
 <details><summary> In case you're interested</summary>
   
 - 📫 Reach me at: hello@gleeblezoid.com
-- 🌐 See more of my online stuff at: [gleeblezoid.com](http://gleeblezoid.com)
+- 🌐 Find me [in my corner](http://corner.gleeblezoid.com)
 - 🎉 Fun fact: I grew up under a rock and studied Geology
 - 🇬🇮 I am a [Gibralteaser](https://youtu.be/LMTJW_eEYDs)
 
